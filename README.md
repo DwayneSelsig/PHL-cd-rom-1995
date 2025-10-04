@@ -4,7 +4,7 @@ A restored and emulated version of the official **Phantasialand promotional CD-R
 
 ---
 
-## ?? Overview
+## Overview
 
 Between the early and mid-1990s, Phantasialand distributed an **interactive CD-ROM** to visitors as a promotional and informational souvenir. The disc contains videos, images, and interactive content built with **Asymetrix ToolBook** and relies on **Video for Windows** components for multimedia playback.
 
@@ -15,7 +15,7 @@ This repository contains:
 
 ---
 
-## ?? Purpose
+## Purpose
 
 The aim of this project is to:
 
@@ -25,7 +25,7 @@ The aim of this project is to:
 
 ---
 
-## ??? Usage
+## Usage
 
 1. Clone or download this repository.  
 2. Launch the emulated environment (e.g., DOSBox + Windows 3.1 or a browser-based emulator).  
@@ -38,7 +38,7 @@ The aim of this project is to:
 
 ---
 
-## ?? Technical Details
+## Technical Details
 
 - **ToolBook Runtime:** Enables the playback of '.TBK' interactive content created with Asymetrix ToolBook.  
 - **Video for Windows (VFW):** Provides essential multimedia capabilities, including AVI playback, MCI extensions, and audio codecs such as Microsoft ADPCM and IMA ADPCM.  
@@ -46,7 +46,7 @@ The aim of this project is to:
 
 ---
 
-## ??? Historical Context
+## Historical Context
 
 The CD-ROM showcases Phantasialand as it appeared in the 1990s, including attractions that no longer exist, such as:
 
@@ -58,13 +58,13 @@ These elements make the CD-ROM a valuable digital time capsule of the park’s his
 
 ---
 
-## ?? License
+## License
 
 This project is licensed under the **GPL-3.0 License**. See the 'LICENSE' file for details.
 
 ---
 
-## ?? Credits
+## Credits
 
 - Original CD-ROM © Phantasialand, mid-1990s  
 - Restoration and emulation by **Dwayne Selsig**  
