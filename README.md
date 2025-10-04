@@ -34,7 +34,7 @@ The aim of this project is to:
    - 'VFW.BAT' – installs **Video for Windows** components, video codecs, and audio drivers.  
 4. Start the CD-ROM content from within the emulated Windows environment.
 
-?? **Tip:** A mouse is required for interaction. The emulator works on desktops, tablets, and even smartphones if a mouse is connected.
+**Tip:** A mouse is required for interaction. The emulator works on desktops, tablets, and even smartphones if a mouse is connected.
 
 ---
 
