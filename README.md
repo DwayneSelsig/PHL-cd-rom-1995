@@ -2,6 +2,8 @@
 
 A restored and emulated version of the official **Phantasialand promotional CD-ROM** from the mid-1990s, preserved and adapted to run on modern systems through emulation and web technology.
 
+![Phantasialand CD-ROM 1995 Screenshot](Phantasialand%20CD-ROM%201995_screenshot.jpg)
+
 ---
 
 ## Overview
